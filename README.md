@@ -1,1 +1,2 @@
 # SQL-Project
+Led the design and implementation of a relational database management system using SQL for a retail organization. Designed the database schema, normalized tables, and defined relationships between entities. Developed efficient SQL queries and stored procedures for data retrieval, modification, and reporting. Ensured data integrity, performance optimization, and implemented security measures to protect sensitive information. Conducted regular data maintenance tasks, including data backups, indexing, and query optimization.
